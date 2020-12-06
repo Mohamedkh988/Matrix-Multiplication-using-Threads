@@ -1,5 +1,5 @@
 # Multi-threaded Matrices multiplication using POSIX Threads
-Code organization:
+# Code organization:
 1)At first the main function reads the matrices A and B from their files and put
 their values in 2D arrays.
 2)Then it checks if inner dimension matches or not, and prints Error if not.
